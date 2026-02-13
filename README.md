@@ -6,7 +6,7 @@
 <h3 align="center">writing stories no one will read.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whoshelby&label=Profile%20Views&color=grey&style=flat" alt="Profile Views"
+  <img src="https://komarev.com/ghpvc/?username=wholog&label=Profile%20Views&color=grey&style=flat" alt="Profile Views"
 </p>
 <br>
 <div>
