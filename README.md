@@ -11,8 +11,8 @@
 <br>
 <div>
   <p align="center">
-   <a href="https://discord.com/users/452082030180565002">
-     <img src="https://lanyard.cnrad.dev/api/452082030180565002?theme=dark&idleMessage=Chilling...!&showDisplayName=false&hideBadges=false&bg=000000">
+   <a href="https://discord.com/users/1277142365236105257">
+     <img src="https://lanyard.cnrad.dev/api/1277142365236105257?theme=dark&idleMessage=Chilling...!&showDisplayName=false&hideBadges=false&bg=000000">
    </a></p>
  </div>
 
