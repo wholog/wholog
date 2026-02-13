@@ -22,7 +22,7 @@
 <h3>Featured Project</h3>
 <p>
   <a href="https://github.com/wholog/log-Nuker">
-    <code>Flux Nuker</code>
+    <code>LOG Nuker</code>
   </a>
   <sub> - Fastest Discord server nuker written in Python.</sub>
 </p></div>
