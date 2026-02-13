@@ -32,3 +32,9 @@
 <p align="center">
   <strong style="color: #ff3333;">if you like it, star it..?</strong>
 </p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
