@@ -2,10 +2,10 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # Runs every 6 hours
   workflow_dispatch:
 
-# 🔥 IMPORTANT: Give write permission
+# 🔥 REQUIRED to avoid 403 error
 permissions:
   contents: write
 
@@ -14,17 +14,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout repository
       - uses: actions/checkout@v4
 
-      # Generate the snake files
-      - uses: Platane/snk@master
+      # Generate snake animation
+      - name: Generate snake
+        uses: Platane/snk@master
         with:
           github_user_name: wholog
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
 
-      # Push to output branch (NOT master)
+      # Push generated files to output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
