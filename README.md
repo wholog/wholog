@@ -1,12 +1,12 @@
 l<p align="center">
-  <img src='https://cdn.discordapp.com/attachments/1411311515197243425/1471804430931202212/20260213_151423.jpg?ex=69904431&is=698ef2b1&hm=6736b44fcdeea12515a648609e085773faa6a69fbf8b38b174cd3ef9a65985ff&">
+  <img src="https://cdn.discordapp.com/attachments/1411311515197243425/1471804430931202212/20260213_151423.jpg?ex=69904431&is=698ef2b1&hm=6736b44fcdeea12515a648609e085773faa6a69fbf8b38b174cd3ef9a65985ff&">
 </p>
 
 <h1 align="center">YO! it's log..?</h1>
 <h3 align="center">writing stories no one will read.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=whoshelby&label=Profile%20Views&color=grey&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=whoshelby&label=Profile%20Views&color=grey&style=flat" alt="Profile Views"
 </p>
 <br>
 <div>
