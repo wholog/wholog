@@ -1,5 +1,5 @@
 l<p align="center">
-  <img src="oooo.png" alt="oooo" width="100%" />
+  <img src='https://cdn.discordapp.com/attachments/1411311515197243425/1471804430931202212/20260213_151423.jpg?ex=69904431&is=698ef2b1&hm=6736b44fcdeea12515a648609e085773faa6a69fbf8b38b174cd3ef9a65985ff&">
 </p>
 
 <h1 align="center">YO! it's log..?</h1>
