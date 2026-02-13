@@ -2,7 +2,7 @@ l<p align="center">
   <img src="oooo.png" alt="oooo" width="100%" />
 </p>
 
-<h1 align="center">YO! it's Shelby..?</h1>
+<h1 align="center">YO! it's log..?</h1>
 <h3 align="center">writing stories no one will read.</h3>
 
 <p align="center">
