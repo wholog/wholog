@@ -1,34 +1,16 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1411311515197243425/1471804430931202212/20260213_151423.jpg?ex=69904431&is=698ef2b1&hm=6736b44fcdeea12515a648609e085773faa6a69fbf8b38b174cd3ef9a65985ff&">
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wholog&label=Profile%20views&color=0e75b6&style=flat" alt="wholog" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wholog" alt="wholog" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-<h1 align="center">YO! it's log..?</h1>
-<h3 align="center">writing stories no one will read.</h3>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wholog&label=Profile%20Views&color=grey&style=flat" alt="Profile Views"
-</p>
-<br>
-<div>
-  <p align="center">
-   <a href="https://discord.com/users/1277142365236105257">
-     <img src="https://cdn.discordapp.com/attachments/1411311515197243425/1471811406171996242/20260213_154232.jpg?ex=69904ab0&is=698ef930&hm=0e6813103d9bb332153a07cbc512bac11322c786f4a4df9ebe49b7289bc9d7af&">
-   </a></p>
- </div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wholog&show_icons=true&locale=en&layout=compact" alt="wholog" /></p>
 
-
-
-<div align="center">
-<h3>Featured Project</h3>
-<p>
-  <a href="https://github.com/wholog/log-Nuker">
-    <code>LOG Nuker</code>
-  </a>
-  <sub> - Fastest Discord server nuker written in Python.</sub>
-</p></div>
-
-<hr>
-
-<p align="center">
-  <strong style="color: #ff3333;">if you like it, star it..?</strong>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wholog&" alt="wholog" /></p>
