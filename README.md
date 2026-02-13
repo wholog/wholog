@@ -12,7 +12,7 @@
 <div>
   <p align="center">
    <a href="https://discord.com/users/1277142365236105257">
-     <img src="https://lanyard.cnrad.dev/api/1277142365236105257?theme=dark&idleMessage=Chilling...!&showDisplayName=false&hideBadges=false&bg=000000">
+     <img src="https://cdn.discordapp.com/attachments/1411311515197243425/1471811406171996242/20260213_154232.jpg?ex=69904ab0&is=698ef930&hm=0e6813103d9bb332153a07cbc512bac11322c786f4a4df9ebe49b7289bc9d7af&">
    </a></p>
  </div>
 
