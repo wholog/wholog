@@ -20,10 +20,10 @@
 
   f="https://github.com/wholog">
     <img src="https://github-readme-stats.vercel.app/api?username=nirgranth&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nirgranth&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wholog&theme=radical&hide_border=true" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirgranth&langs_count=8&layout=compact&theme=radical&hide_border=true" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nirgranth&theme=redical&hide_border=true" style="width: 100%;" />
-    <img src="https://github-profile-trophy.vercel.app/?username=nirgranth&theme=radical&hide_border=true" height="150" alt="trophy graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wholog&theme=redical&hide_border=true" style="width: 100%;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=wholog&theme=radical&hide_border=true" height="150" alt="trophy graph" />
 </a>
 
 
