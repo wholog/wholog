@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1411311515197243425/1471804430931202212/20260213_151423.jpg?ex=69b28b31&is=69b139b1&hm=c3c9f99a439b86c8862284c0e259b58cb37aa038daab14954ca23212ca88e213&">
+  <img src="https://cdn.discordapp.com/attachments/1455879238052876430/1484428110999846963/20260213_151423.jpg?ex=69be30e9&is=69bcdf69&hm=54d3a1f1878a2c0aeca5adcb92cf4528f6eba3f6e8ec47fdf6d6d12d51e31052&">
 </p>
 
 <h1 align="center">YO! it's log..?</h1>
@@ -12,7 +12,7 @@
 <div>
   <p align="center">
    <a href="https://discord.com/users/1277142365236105257">
-     <img src="https://cdn.discordapp.com/attachments/1411311515197243425/1471811406171996242/20260213_154232.jpg?ex=69b291b0&is=69b14030&hm=fbab4be986a3f6ec43a12a2c538127087cb7c1ba304cd016660ba5c475b6775f&">
+     <img src="https://cdn.discordapp.com/attachments/1455879238052876430/1484428119514288128/20260213_154232.jpg?ex=69be30eb&is=69bcdf6b&hm=d533f9967ee20d650abfe1384c5fdc37414b74425a01b7fd07b460e3a7526875&">
    </a></p>
  </div>
 
