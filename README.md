@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1411311515197243425/1471804430931202212/20260213_151423.jpg?ex=6a06eb31&is=6a0599b1&hm=50c030b14062c0eb973906486ba15b8bebf0c2cd1400b81422186776b2d9f3fc&">
+  <img src="https://cdn.discordapp.com/attachments/1411311515197243425/1471804430931202212/20260213_151423.jpg?ex=6a7f8c71&is=6a7e3af1&hm=59a3542e491d2866562454bd4f296ec5e21c7ce43729c0eb152f4b5fc9e13194&">
 </p>
 
 <h1 align="center">YO! it's log..?</h1>
