@@ -12,7 +12,7 @@
 <div>
   <p align="center">
    <a href="https://discord.com/users/1277142365236105257">
-     <img src="https://cdn.discordapp.com/attachments/1411311515197243425/1471811406171996242/20260213_154232.jpg?ex=6a06f1b0&is=6a05a030&hm=cc7ccdb38e0aef7caaf5c37b4c81212427bb1ebefe52e7313c38b82268fcb75a&">
+     <img src="https://cdn.discordapp.com/attachments/1411311515197243425/1471811406171996242/20260213_154232.jpg?ex=6a7f92f0&is=6a7e4170&hm=089ffb5b5b1cd4d9db67c8cf4494f5a9f071f84c4b2cc8fda47aba17c1692266&">
    </a></p>
  </div>
 
